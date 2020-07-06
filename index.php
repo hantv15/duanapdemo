@@ -9,6 +9,7 @@
 
 <body>
     <?php echo '<p>Hello World</p>'; ?>
+    <?php echo '<p>Xin chào</p>'; ?>
 </body>
 
 </html>

@@ -12,6 +12,7 @@
     <?php echo '<p>Xin chào</p>'; ?>
     <?php echo '<p>Xin chào</p>'; ?>
     <?php echo '<p>Xin chào</p>'; ?>
+    <?php echo '<p>Xin chào</p>'; ?>
 </body>
 
 </html>
